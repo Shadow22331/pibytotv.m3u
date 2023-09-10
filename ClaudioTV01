@@ -1,67 +1,25 @@
 #ClaudioTV01
-
-
-
-
-
-
-
-
-
 ##################( TDA DIGITAL )############################################( TDA DIGITAL )########################################
 ##################( TDA DIGITAL )#############################################( TDA DIGITAL )########################################
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mercado-pago-logo-52B7182205-seeklogo.com.png"group-title="TDA BS.AS",👉clau.rub.ka👈PODES DONAR A VOLUNTAD
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="TDA BS.AS",CITY SPORTS HD  2.10  CABA
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="TDA BS.AS",ESPN PREMIUM HD
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/138034
 http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/165275.ts
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png"group-title="TDA BS.AS",TNT SPORTS HD  CABA
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132285
 http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/87964.ts
-
-
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA HD
 https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA 2 HD 
 https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8?PlaylistM3UCL
-
-
-
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA 3 HD
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
-
-
-
-
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA 4 HD
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w741030069.m3u8
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png"group-title="TDA BS.AS",CHINOLA TV
 https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
